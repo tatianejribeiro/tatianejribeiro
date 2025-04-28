@@ -29,7 +29,7 @@
 </div>
 
 
-## ## 🛠️ Projetos em Desenvolvimento
+## 🛠️ Projetos em Desenvolvimento
 
 - 🚀 Em breve: Meu portfólio pessoal!
 - 🛡️ Em andamento: API de autenticação segura com Node.js
