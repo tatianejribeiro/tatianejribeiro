@@ -4,7 +4,7 @@
 - 🌱 Estudando Typescript
 - 👯 Contate-me no e-mail: tatiane_jesus2598@hotmail.com
 - 🤔 Pronouns: ela/dela
--  💻 Apaixonado por tecnologia e desenvolvimento.
+-  💻 Apaixonada por tecnologia e desenvolvimento.
 - 🚀 Sempre buscando novos desafios e aprendizados.
 - 🎯 Focada em [programação].
 
