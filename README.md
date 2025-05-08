@@ -32,9 +32,9 @@
 ## 🛠️ Projetos em Desenvolvimento
 
 - 🚀 Em breve: Meu portfólio pessoal!
-- 🛡️ Em andamento: API de autenticação segura com Node.js
-- 📊 Estudando: Dashboard interativo com Power BI e SQL
-- 🤖 Explorando: Automatizações com Python e Bots de Telegram
+- 🛡️ Em andamento: projeto em HTML 
+- 📊 Estudando: css , html
+- 🤖 Explorando: Automatizações com Python 
 
 
 
