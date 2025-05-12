@@ -1,7 +1,7 @@
 ## Olá eu sou a Tatiane Ribeiro👋
 
 - 🔭 Hoje trabalho com Noc
-- 🌱 Estudando Python
+- 🌱 Estudando  css , html, python e java script
 - 👯 Contate-me no e-mail: tatiane_jesus2598@hotmail.com
 - 🤔 Pronouns: ela/dela
 -  💻 Apaixonada por tecnologia e desenvolvimento.
