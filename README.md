@@ -33,7 +33,7 @@
 
 - 🚀 Em breve: Meu portfólio pessoal!
 - 🛡️ Em andamento: projeto em HTML 
-- 📊 Estudando: css , html
+- 📊 Estudando: css , html, python e java script
 - 🤖 Explorando: Automatizações com Python 
 
 
